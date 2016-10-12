@@ -1,28 +1,33 @@
 {
-    "Nombre" : "Erik",
-    "Hobby" : "Huevonear",
-    "Edad" : "22",
-    "Telefono" : "3337564837",
-    "Direccion" : "GDL"
-  },
-  {
-    "Nombre" : "Jesus",
-    "Hobby" : "Jugar FiFA",
-    "Edad" : "22",
-    "Telefono" : "33375643456",
-    "Direccion" : "GDL"
-  },
-  {
-    "Nombre" : "Felix",
-    "Hobby" : "Amor",
-    "Edad" : "22",
-    "Telefono" : "3333454837",
-    "Direccion" : "GDL"
-  },
-  {
-    "Nombre" : "Bryan",
-    "Hobby" : "Su perro",
-    "Edad" : "22",
-    "Telefono" : "3333454837",
-    "Direccion" : "GDL"
-  }
+	"amigos" : 
+	[
+		{
+			"Nombre" : "Erik",
+    		"Hobby" : "Huevonear",
+    		"Edad" : "22",
+    		"Telefono" : "3337564837",
+    		"Direccion" : "GDL"
+  		},
+  		{
+    		"Nombre" : "Jesus",
+	    	"Hobby" : "Jugar FiFA",
+    		"Edad" : "22",
+    		"Telefono" : "33375643456",
+    		"Direccion" : "GDL"
+  		},
+  		{
+	    	"Nombre" : "Felix",
+		    "Hobby" : "Amor",
+    		"Edad" : "22",
+	    	"Telefono" : "3333454837",
+    		"Direccion" : "GDL"
+  		},
+	  	{
+		    "Nombre" : "Bryan",
+    		"Hobby" : "Su perro",
+	    	"Edad" : "22",
+    		"Telefono" : "3333454837",
+    		"Direccion" : "GDL"
+ 	 	}
+	]
+}
