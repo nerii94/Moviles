@@ -1,4 +1,5 @@
 {
+{
     "Nombre" : "Erik",
     "Hobby" : "Huevonear",
     "Edad" : "22",
@@ -25,4 +26,5 @@
     "Edad" : "22",
     "Telefono" : "3333454837",
     "Direccion" : "GDL"
+}
 }
