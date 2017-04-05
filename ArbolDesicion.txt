@@ -1,0 +1,9 @@
+Cabello/Altura/Peso/Proteccion/Quemadura
+Rubio/Medio/Bajo/No/Si
+Rubio/Bajo/Medio/Si/No
+Negro/Alto/Medio/Si/No
+Rubio/Bajo/Medio/No/Si
+Rojo/Medio/Alto/No/Si
+Moreno/Alto/Alto/No/No
+Moreno/Medio/Alto/No/No
+Rubio/Bajo/Bajo/Si/No
